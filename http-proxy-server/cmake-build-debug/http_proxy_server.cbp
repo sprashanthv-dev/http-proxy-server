@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="http_proxy_server"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/mnt/d/Cu Boulder/Fall 23/Network Systems/Programming Assignments/Assignment 3/http_proxy_server/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/mnt/d/Cu\ Boulder/Fall\ 23/Network\ Systems/Programming\ Assignments/Assignment\ 3/http_proxy_server/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/mnt/d/Cu\ Boulder/Fall\ 23/Network\ Systems/Programming\ Assignments/Assignment\ 3/http_proxy_server/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/mnt/d/Cu\ Boulder/Fall\ 23/Network\ Systems/Programming\ Assignments/Assignment\ 3/http_proxy_server/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/mnt/d/Cu\ Boulder/Fall\ 23/Network\ Systems/Programming\ Assignments/Assignment\ 3/http_proxy_server/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="http_proxy_server">
+				<Option output="/mnt/d/Cu Boulder/Fall 23/Network Systems/Programming Assignments/Assignment 3/http_proxy_server/cmake-build-debug/http_proxy_server" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/Cu Boulder/Fall 23/Network Systems/Programming Assignments/Assignment 3/http_proxy_server/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/mnt/d/Cu\ Boulder/Fall\ 23/Network\ Systems/Programming\ Assignments/Assignment\ 3/http_proxy_server/cmake-build-debug/Makefile&quot;  VERBOSE=1 http_proxy_server"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/mnt/d/Cu\ Boulder/Fall\ 23/Network\ Systems/Programming\ Assignments/Assignment\ 3/http_proxy_server/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/mnt/d/Cu\ Boulder/Fall\ 23/Network\ Systems/Programming\ Assignments/Assignment\ 3/http_proxy_server/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/mnt/d/Cu\ Boulder/Fall\ 23/Network\ Systems/Programming\ Assignments/Assignment\ 3/http_proxy_server/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="http_proxy_server/fast">
+				<Option output="/mnt/d/Cu Boulder/Fall 23/Network Systems/Programming Assignments/Assignment 3/http_proxy_server/cmake-build-debug/http_proxy_server" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/Cu Boulder/Fall 23/Network Systems/Programming Assignments/Assignment 3/http_proxy_server/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/mnt/d/Cu\ Boulder/Fall\ 23/Network\ Systems/Programming\ Assignments/Assignment\ 3/http_proxy_server/cmake-build-debug/Makefile&quot;  VERBOSE=1 http_proxy_server/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/mnt/d/Cu\ Boulder/Fall\ 23/Network\ Systems/Programming\ Assignments/Assignment\ 3/http_proxy_server/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/mnt/d/Cu\ Boulder/Fall\ 23/Network\ Systems/Programming\ Assignments/Assignment\ 3/http_proxy_server/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/mnt/d/Cu\ Boulder/Fall\ 23/Network\ Systems/Programming\ Assignments/Assignment\ 3/http_proxy_server/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/mnt/d/Cu Boulder/Fall 23/Network Systems/Programming Assignments/Assignment 3/http_proxy_server/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/mnt/d/Cu\ Boulder/Fall\ 23/Network\ Systems/Programming\ Assignments/Assignment\ 3/http_proxy_server/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/mnt/d/Cu\ Boulder/Fall\ 23/Network\ Systems/Programming\ Assignments/Assignment\ 3/http_proxy_server/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/mnt/d/Cu\ Boulder/Fall\ 23/Network\ Systems/Programming\ Assignments/Assignment\ 3/http_proxy_server/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/mnt/d/Cu\ Boulder/Fall\ 23/Network\ Systems/Programming\ Assignments/Assignment\ 3/http_proxy_server/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/mnt/d/Cu Boulder/Fall 23/Network Systems/Programming Assignments/Assignment 3/http_proxy_server/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/mnt/d/Cu\ Boulder/Fall\ 23/Network\ Systems/Programming\ Assignments/Assignment\ 3/http_proxy_server/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/mnt/d/Cu\ Boulder/Fall\ 23/Network\ Systems/Programming\ Assignments/Assignment\ 3/http_proxy_server/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/mnt/d/Cu\ Boulder/Fall\ 23/Network\ Systems/Programming\ Assignments/Assignment\ 3/http_proxy_server/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/mnt/d/Cu\ Boulder/Fall\ 23/Network\ Systems/Programming\ Assignments/Assignment\ 3/http_proxy_server/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/mnt/d/Cu Boulder/Fall 23/Network Systems/Programming Assignments/Assignment 3/http_proxy_server/blacklist.c">
+			<Option target="http_proxy_server"/>
+		</Unit>
+		<Unit filename="/mnt/d/Cu Boulder/Fall 23/Network Systems/Programming Assignments/Assignment 3/http_proxy_server/blacklist.h">
+			<Option target="http_proxy_server"/>
+		</Unit>
+		<Unit filename="/mnt/d/Cu Boulder/Fall 23/Network Systems/Programming Assignments/Assignment 3/http_proxy_server/constants.h">
+			<Option target="http_proxy_server"/>
+		</Unit>
+		<Unit filename="/mnt/d/Cu Boulder/Fall 23/Network Systems/Programming Assignments/Assignment 3/http_proxy_server/content_type.h">
+			<Option target="http_proxy_server"/>
+		</Unit>
+		<Unit filename="/mnt/d/Cu Boulder/Fall 23/Network Systems/Programming Assignments/Assignment 3/http_proxy_server/dir_ops.c">
+			<Option target="http_proxy_server"/>
+		</Unit>
+		<Unit filename="/mnt/d/Cu Boulder/Fall 23/Network Systems/Programming Assignments/Assignment 3/http_proxy_server/dir_ops.h">
+			<Option target="http_proxy_server"/>
+		</Unit>
+		<Unit filename="/mnt/d/Cu Boulder/Fall 23/Network Systems/Programming Assignments/Assignment 3/http_proxy_server/dns_cache.c">
+			<Option target="http_proxy_server"/>
+		</Unit>
+		<Unit filename="/mnt/d/Cu Boulder/Fall 23/Network Systems/Programming Assignments/Assignment 3/http_proxy_server/dns_cache.h">
+			<Option target="http_proxy_server"/>
+		</Unit>
+		<Unit filename="/mnt/d/Cu Boulder/Fall 23/Network Systems/Programming Assignments/Assignment 3/http_proxy_server/error_utils.c">
+			<Option target="http_proxy_server"/>
+		</Unit>
+		<Unit filename="/mnt/d/Cu Boulder/Fall 23/Network Systems/Programming Assignments/Assignment 3/http_proxy_server/error_utils.h">
+			<Option target="http_proxy_server"/>
+		</Unit>
+		<Unit filename="/mnt/d/Cu Boulder/Fall 23/Network Systems/Programming Assignments/Assignment 3/http_proxy_server/file_ops.c">
+			<Option target="http_proxy_server"/>
+		</Unit>
+		<Unit filename="/mnt/d/Cu Boulder/Fall 23/Network Systems/Programming Assignments/Assignment 3/http_proxy_server/file_ops.h">
+			<Option target="http_proxy_server"/>
+		</Unit>
+		<Unit filename="/mnt/d/Cu Boulder/Fall 23/Network Systems/Programming Assignments/Assignment 3/http_proxy_server/page_cache.c">
+			<Option target="http_proxy_server"/>
+		</Unit>
+		<Unit filename="/mnt/d/Cu Boulder/Fall 23/Network Systems/Programming Assignments/Assignment 3/http_proxy_server/page_cache.h">
+			<Option target="http_proxy_server"/>
+		</Unit>
+		<Unit filename="/mnt/d/Cu Boulder/Fall 23/Network Systems/Programming Assignments/Assignment 3/http_proxy_server/proxy.c">
+			<Option target="http_proxy_server"/>
+		</Unit>
+		<Unit filename="/mnt/d/Cu Boulder/Fall 23/Network Systems/Programming Assignments/Assignment 3/http_proxy_server/proxy.h">
+			<Option target="http_proxy_server"/>
+		</Unit>
+		<Unit filename="/mnt/d/Cu Boulder/Fall 23/Network Systems/Programming Assignments/Assignment 3/http_proxy_server/req_handler.c">
+			<Option target="http_proxy_server"/>
+		</Unit>
+		<Unit filename="/mnt/d/Cu Boulder/Fall 23/Network Systems/Programming Assignments/Assignment 3/http_proxy_server/req_handler.h">
+			<Option target="http_proxy_server"/>
+		</Unit>
+		<Unit filename="/mnt/d/Cu Boulder/Fall 23/Network Systems/Programming Assignments/Assignment 3/http_proxy_server/res_handler.c">
+			<Option target="http_proxy_server"/>
+		</Unit>
+		<Unit filename="/mnt/d/Cu Boulder/Fall 23/Network Systems/Programming Assignments/Assignment 3/http_proxy_server/res_handler.h">
+			<Option target="http_proxy_server"/>
+		</Unit>
+		<Unit filename="/mnt/d/Cu Boulder/Fall 23/Network Systems/Programming Assignments/Assignment 3/http_proxy_server/utils.c">
+			<Option target="http_proxy_server"/>
+		</Unit>
+		<Unit filename="/mnt/d/Cu Boulder/Fall 23/Network Systems/Programming Assignments/Assignment 3/http_proxy_server/utils.h">
+			<Option target="http_proxy_server"/>
+		</Unit>
+		<Unit filename="/mnt/d/Cu Boulder/Fall 23/Network Systems/Programming Assignments/Assignment 3/http_proxy_server/websocket.c">
+			<Option target="http_proxy_server"/>
+		</Unit>
+		<Unit filename="/mnt/d/Cu Boulder/Fall 23/Network Systems/Programming Assignments/Assignment 3/http_proxy_server/websocket.h">
+			<Option target="http_proxy_server"/>
+		</Unit>
+		<Unit filename="/mnt/d/Cu Boulder/Fall 23/Network Systems/Programming Assignments/Assignment 3/http_proxy_server/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

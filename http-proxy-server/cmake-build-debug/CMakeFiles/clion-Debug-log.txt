@@ -1,0 +1,4 @@
+C:\Windows\system32\wsl.exe --distribution Ubuntu --exec /bin/bash -c "export CMAKE_COLOR_DIAGNOSTICS=ON && export CLION_IDE=TRUE && export JETBRAINS_IDE=TRUE && cd '/mnt/d/Cu Boulder/Fall 23/Network Systems/Programming Assignments/Assignment 3/http_proxy_server/cmake-build-debug' && /usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G 'CodeBlocks - Unix Makefiles' -S '/mnt/d/Cu Boulder/Fall 23/Network Systems/Programming Assignments/Assignment 3/http_proxy_server' -B '/mnt/d/Cu Boulder/Fall 23/Network Systems/Programming Assignments/Assignment 3/http_proxy_server/cmake-build-debug'"
+-- Configuring done (0.4s)
+-- Generating done (0.1s)
+-- Build files have been written to: /mnt/d/Cu Boulder/Fall 23/Network Systems/Programming Assignments/Assignment 3/http_proxy_server/cmake-build-debug
